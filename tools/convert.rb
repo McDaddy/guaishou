@@ -1,4 +1,4 @@
-# encoding: utf-8
+#!/usr/bin/env ruby
 
 str = ''
 File.open("tasks.md", 'r') do |f|
@@ -6,7 +6,7 @@ File.open("tasks.md", 'r') do |f|
 end
 
 str = str.gsub(/^###\s?(.*?)\s?$/, "<h3>\\1</h3>\n").
-  gsub(/^任务：\s?(.*?)\n$/, "<div>\n<h3>\\1</h3>\n<ul>").
+  gsub(/^任务：\s?(.*?)\n$/, "<div class=\"card\">\n<h3>\\1</h3>\n<ul>").
   gsub(/^\-\s+视频：\s?(.*?)$/, "</ul>\n<a href='\\1'>视频</a>\n</div>").
   gsub(/^\-\s?(.*?)$/, "<li>\\1</li>")
 

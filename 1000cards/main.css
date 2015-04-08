@@ -146,6 +146,7 @@ body {
 }
 .card ul li {
   line-height: 1.9;
+  padding: 10px;
 }
 
 .card h3 {

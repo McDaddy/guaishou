@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {% include head.html %}
+</head>
+<body>
+  {% include header.html %}
+
+  {{ content }}
+
+  <div class="footer">
+  </div>
+
+  <script type="text/javascript">
+    $( ".logo" ).click(function() {
+      $( "#nav" ).slideToggle();
+      return false;
+    });
+  </script>
+</body>
+</html>

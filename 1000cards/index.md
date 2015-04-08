@@ -1,24 +1,6 @@
-<html>
-<head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" type="text/css" href="main.css">
-  <script type='text/javascript' src='javascript/jquery-2.1.3.min.js'></script>
-</head>
-<body>
-  <div id="nav">
-    <ul class="container">
-      <li><a href="/">首页</a></li>
-      <li><a href="/about.html">关于课程</a></li>
-    </ul>
-  </div>
-  <div class="header">
-    <div class="container">
-      <h1 class="name">小白变怪兽</h1>
-        <a class="logo" href="/">
-          <img src="images/logo.png">
-        </a>
-    </div>
-  </div>
+---
+title: 小白变怪兽
+---
 
   <div class="card">
     <h3>安装 chrome 浏览器和简单网页开发</h3>
@@ -102,15 +84,3 @@
     </ul>
     <a href=''>视频</a>
   </div>
-
-<div class="footer">
-</div>
-
-<script type="text/javascript">
-$( ".logo" ).click(function() {
-  $( "#nav" ).slideToggle();
-  return false;
-});
-</script>
-
-</body>

@@ -21,7 +21,7 @@ title: 关于课程
         Rails/Nodejs/PHP 整站开发打基础的课程，保证大家拥有 Modern Developer
         的基本素质，注意 Modern
         这个词。这是一套手把手教程，动手为主，理论只讲最重要的部分。主要会有 html5 css
-        jquery jekyll liquid markdown github sass… 这些内容。
+        jquery  github  这些内容。
       </li>
     </ul>
   </div>

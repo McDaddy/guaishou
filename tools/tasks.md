@@ -1,0 +1,61 @@
+
+任务：安装 chrome 浏览器和简单网页开发
+
+- id: install-chrome-first-html
+- 安装 chrome 浏览器
+- 写成自己的第一个网页
+- 网页文件名的后缀是什么？
+- 一个网页的基本骨架是？
+- 在浏览器中打开这个网页
+-  视频：http://v.qq.com/page/m/w/h/m01505chuwh.html
+
+任务：使用 css 来美化网页
+
+- id: use-css
+- css 是什么？
+- 如何在 html 页面中引用 css？
+- 什么叫一个 html 的“元素”？
+- css 中如何选中 html 页面的元素？
+- 层叠样式表的层叠是什么意思？
+- 视频：http://v.qq.com/page/x/l/5/x0150vj2cl5.html
+
+任务：块元素和行内元素的区别
+
+- id: block-inline
+- 什么是“块元素”？
+- 什么是“行内元素”？
+- 视频：http://v.qq.com/page/h/5/8/h0150mdwd58.html
+
+任务：理解“盒子模型”
+
+- id: box-model
+- 页面布局的“一般规则”是什么？
+- 盒子模型包含哪几个要素？
+- css 中 width 和 height 到底是控制的盒子的哪个要素？
+- 视频：http://v.qq.com/page/x/l/t/x01506jl3lt.html
+
+任务：class 和 id 分别怎么用
+
+- id: class-id
+- class 和 id 是什么？
+- class 和 id 有什么区别？
+- 两者那个更常用？
+- 视频：http://v.qq.com/page/i/i/l/i01504q67il.html
+
+任务：注册 github.com 账号，托管咱们的页面
+
+- id: hello-github-pages 
+- 如何注册 github.com
+- 如何创建项目仓库？
+- 网页托管仓库的名字应该叫什么？
+- 添加页面？
+- 这样就可以到公网访问了
+- 视频：http://v.qq.com/page/h/1/m/h0150im4c1m.html
+
+任务：如何让一个块元素水平居中
+
+- id: center-a-block
+- 先演示知识，然后真正的开发实际代码
+- 如何给一个块元素设置水平居中？
+- margin padding 的值有四个长度，分别对应那个方向？简写规则是什么？
+- 视频：

@@ -9,6 +9,9 @@ h1, h2, h3 {
   margin: 0;
 }
 
+a {
+  text-decoration: none;
+}
 body {
   color: #777;
   background: #fafafa;
@@ -16,6 +19,32 @@ body {
   font-family: sans-serif;
 }
 
+/* nav */
+
+#nav {
+  background: #444;
+  height: 70px;
+  display: none;
+}
+
+#nav a {
+  color: #f3f3f3;
+}
+
+#nav a:hover {
+  text-decoration: underline;
+}
+
+#nav ul {
+  width: 400px;
+  text-align: center;
+}
+#nav ul li {
+  list-style: none;
+  display: inline;
+  padding-right: 40px;
+  line-height: 70px;
+}
 /* header */
 .header {
   background: teal;
@@ -60,7 +89,7 @@ body {
 .card {
   position: relative;
   width: 960px;
-  margin: 10px auto;
+  margin: 40px auto;
   background: white;
   box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);
   border-radius: 2px;

@@ -1,6 +1,36 @@
-html {
-  background: #6c7989;
-  background-image: url("images/checker.png");
+/* common.css */
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+h1, h2, h3 {
+  margin: 0;
+}
+
+body {
+  color: #777;
+  background: #fafafa;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.header {
+  background: teal;
+  margin-bottom: 70px;
+}
+
+.header .logo img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: -40px;
+}
+
+.header .name{
+ margin: 0;
+ padding: 50px 0 40px;
+ color: white;
 }
 
 .card {
@@ -8,22 +38,47 @@ html {
   width: 960px;
   margin: 10px auto;
   background: white;
-  -webkit-border-radius: 8px;
-  border-radius: 8px;
-  -webkit-box-shadow: rgba(0,0,0,0.2) 0 0 0 1px, rgba(0,0,0,0.45) 0 3px 10px;
-  box-shadow: rgba(0,0,0,0.2) 0 0 0 1px, rgba(0,0,0,0.45) 0 3px 10px;
+  box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);
+  border-radius: 2px;
+  border: 0;
 }
 
 .card .id {
   position: absolute;
   right: 30px;
-  line-height: 60px;
-  top: 0;
+  top: 50px;
+  opacity: 0.7;
 }
+
+.card:before {
+  content: "";
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  background: red;
+}
+
+.card img {
+  opacity: 0.4;
+}
+
+.card a:before {
+  content: "";
+  display: block;
+  width: 30px;
+  height: 24px;
+  float: left;
+  background: url(images/ic_videocam_24px.svg) no-repeat;
+  opacity: 0.4;
+}
+
+
 .card a{
   position: absolute;
   bottom: 50px;
   right: 40px;
+  line-height: 24px;
   text-decoration: none;
   color: #069;
 }
@@ -42,16 +97,6 @@ html {
   font-size: 1.3em;
   font-weight: normal;
   line-height: 1.2;
-  color: #069;
-  text-shadow: rgba(255,255,255,0.9) 0 1px 0;
-  -webkit-border-radius: 8px 8px 0 0;
-  border-radius: 8px 8px 0 0;
-  background: #c6eafa -webkit-linear-gradient(#ddfbfc, #c6eafa);
-  background: #c6eafa -moz-linear-gradient(#ddfbfc, #c6eafa);
-  background: #c6eafa -o-linear-gradient(#ddfbfc, #c6eafa);
-  background: #c6eafa -ms-linear-gradient(#ddfbfc, #c6eafa);
-  background: #c6eafa linear-gradient(#ddfbfc, #c6eafa);
   position: relative;
-  padding: 15px 30px;
-  border-bottom: 1px solid #b2d2e1;
+  padding: 45px  20px 0 20px;
 }

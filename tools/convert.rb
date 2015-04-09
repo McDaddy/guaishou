@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 str = ''
-File.open("tasks.md", 'r') do |f|
+File.open("cards.md", 'r') do |f|
   str = f.read
 end
 

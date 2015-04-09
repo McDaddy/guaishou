@@ -11,6 +11,19 @@ str = str.gsub(/^###\s?(.*?)\s?$/, "<h3>\\1</h3>\n").
   gsub(/^\-\s+id: \s?(.*?)$/, "<div class='id'>\\1</div>").
   gsub(/^\-\s?(.*?)$/, "<li>\\1</li>")
 
-File.open("index.html", 'w') do |f|
+
+
+front = <<HEREDOC
+---
+title: 小白变怪兽
+---
+
+HEREDOC
+
+File.open("index.md", 'w') do |f|
+  f.write(front)
+end
+
+File.open("index.md", 'a') do |f|
   f.write(str)
 end

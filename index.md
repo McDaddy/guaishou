@@ -83,3 +83,16 @@ title: 小白变怪兽
 </ul>
 <a href='http://pan.baidu.com/s/1pJuo0Gj'>视频</a>
 </div>
+
+<div class="card">
+<h3>申请服务器</h3>
+<ul>
+<div class='id'>buy-vps-aliyun</div>
+<li>一个小网站要用那种类型的服务器呢？</li>
+<li>国外和国内适合创业者的 VPS 提供商都有谁？</li>
+<li>你知道用国内服务器，如果域名不备案会被怎么虐吗？</li>
+<li>aliyun 有完善的备案服务</li>
+<li>如何购买阿里云服务器并得到公网 IP 呢？</li>
+</ul>
+<a href='http://pan.baidu.com/s/1sjuQ2BV'>视频</a>
+</div>

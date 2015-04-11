@@ -68,3 +68,13 @@
 - aliyun 有完善的备案服务
 - 如何购买阿里云服务器并得到公网 IP 呢？
 - baidu: http://pan.baidu.com/s/1sjuQ2BV
+
+任务：配置 nginx 服务器
+
+- id: ubuntu-nginx
+- 如何连接服务器呢？
+- 你知道如何在 ubuntu 系统上安装软件吗？
+- 如何使用 vi 编辑器来做服务器上的简单配置修改？
+- 如何在 ubuntu 命令行环境下作文件夹跳转和移动文件呢
+- 如何上传文件到服务器
+- baidu: http://pan.baidu.com/s/1dDeZRDv

@@ -96,3 +96,16 @@ title: 小白变怪兽
 </ul>
 <a href='http://pan.baidu.com/s/1sjuQ2BV'>视频</a>
 </div>
+
+<div class="card">
+<h3>配置 nginx 服务器</h3>
+<ul>
+<div class='id'>ubuntu-nginx</div>
+<li>如何连接服务器呢？</li>
+<li>你知道如何在 ubuntu 系统上安装软件吗？</li>
+<li>如何使用 vi 编辑器来做服务器上的简单配置修改？</li>
+<li>如何在 ubuntu 命令行环境下作文件夹跳转和移动文件呢</li>
+<li>如何上传文件到服务器</li>
+</ul>
+<a href='http://pan.baidu.com/s/1dDeZRDv'>视频</a>
+</div>

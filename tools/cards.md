@@ -78,3 +78,13 @@
 - 如何在 ubuntu 命令行环境下作文件夹跳转和移动文件呢
 - 如何上传文件到服务器
 - baidu: http://pan.baidu.com/s/1dDeZRDv
+
+任务：绑定域名
+
+- id: bind-domain
+- 去哪里购买域名？
+- 如何设置 DNS 绑定域名到 IP ？
+- 什么情况下域名需要备案？
+- 用国外的服务器不用备案但是就有点慢？
+- 备案要注意哪些问题？
+- baidu: http://pan.baidu.com/s/1kTgjBAv

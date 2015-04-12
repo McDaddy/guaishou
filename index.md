@@ -115,7 +115,7 @@ title: 小白变怪兽
 <ul>
 <div class='id'>bind-domain</div>
 <li>去哪里购买域名？</li>
-<li>如何设置 DNS 绑定域名到 IP ？</li>
+<li>如何设置 DNS ，给服务器绑定域名 ？</li>
 <li>什么情况下域名需要备案？</li>
 <li>用国外的服务器不用备案但是就有点慢</li>
 <li>备案要注意哪些问题？</li>

@@ -85,6 +85,17 @@ title: 小白变怪兽
 </div>
 
 <div class="card">
+<h3>浮动和清除浮动</h3>
+<ul>
+<div class='id'>float-clear</div>
+<li>你知道 float 如何用吗？</li>
+<li>清除浮动是如何工作的呢？</li>
+<li>如何设置一个两栏式的页面布局？</li>
+</ul>
+<a href='http://pan.baidu.com/s/1kT5Sdoz'>视频</a>
+</div>
+
+<div class="card">
 <h3>申请服务器</h3>
 <ul>
 <div class='id'>buy-vps-aliyun</div>

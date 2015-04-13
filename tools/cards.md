@@ -59,6 +59,14 @@
 - margin padding 的值有四个长度，分别对应那个方向？简写规则是什么？
 - baidu: http://pan.baidu.com/s/1pJuo0Gj
 
+任务：浮动和清除浮动
+
+- id: float-clear
+- 你知道 float 如何用吗？
+- 清除浮动是如何工作的呢？
+- 如何设置一个两栏式的页面布局？
+- baidu: http://pan.baidu.com/s/1kT5Sdoz
+
 任务：申请服务器
 
 - id: buy-vps-aliyun

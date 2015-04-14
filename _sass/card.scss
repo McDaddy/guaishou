@@ -19,6 +19,10 @@
   color: teal;
 }
 
+.card .id::focus {
+  outline: none;
+}
+
 .card:before {
   content: "";
   -webkit-border-radius: 50%;

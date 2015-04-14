@@ -12,9 +12,10 @@
 
 .card .id {
   position: absolute;
-  right: 30px;
-  top: 50px;
+  right: 10px;
+  top: 10px;
   opacity: 0.7;
+  color: teal;
 }
 
 .card:before {
@@ -30,7 +31,7 @@
   opacity: 0.4;
 }
 
-.card a:before {
+.card a.video:before {
   content: "";
   display: block;
   width: 30px;
@@ -41,7 +42,7 @@
 }
 
 
-.card a{
+.card a.video{
   position: absolute;
   bottom: 50px;
   right: 40px;
@@ -49,7 +50,7 @@
   text-decoration: none;
   color: teal;
 }
-.card a:hover {
+.card a.video:hover {
   text-decoration: underline;
 }
 

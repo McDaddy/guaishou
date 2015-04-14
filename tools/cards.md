@@ -69,6 +69,7 @@
 
 任务：最最最重要的一个清浮动的方法 clearfix
 
+- id: clearfix
 - 工程上最佳的清除浮动的方法是什么？
 - baidu: http://pan.baidu.com/s/1eQzWF4m
 

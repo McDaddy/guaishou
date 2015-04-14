@@ -12,7 +12,7 @@ title: 小白变怪兽
 <li>一个网页的基本骨架是？</li>
 <li>在浏览器中打开这个网页</li>
 </ul>
-<a href='http://pan.baidu.com/s/1c0k11tQ'>视频</a>
+<a class="video" href='http://pan.baidu.com/s/1c0k11tQ'>视频</a>
 </div>
 
 <div class="card">
@@ -25,7 +25,7 @@ title: 小白变怪兽
 <li>css 中如何选中 html 页面的元素？</li>
 <li>层叠样式表的层叠是什么意思？</li>
 </ul>
-<a href='http://pan.baidu.com/s/1nt9RA6t'>视频</a>
+<a class="video" href='http://pan.baidu.com/s/1nt9RA6t'>视频</a>
 </div>
 
 <div class="card">
@@ -35,7 +35,7 @@ title: 小白变怪兽
 <li>什么是“块元素”？</li>
 <li>什么是“行内元素”？</li>
 </ul>
-<a href='http://pan.baidu.com/s/1kTMMSHD'>视频</a>
+<a class="video" href='http://pan.baidu.com/s/1kTMMSHD'>视频</a>
 </div>
 
 <div class="card">
@@ -46,7 +46,7 @@ title: 小白变怪兽
 <li>盒子模型包含哪几个要素？</li>
 <li>css 中 width 和 height 到底是控制的盒子的哪个要素？</li>
 </ul>
-<a href='http://pan.baidu.com/s/1eQInxxK'>视频</a>
+<a class="video" href='http://pan.baidu.com/s/1eQInxxK'>视频</a>
 </div>
 
 <div class="card">
@@ -57,7 +57,7 @@ title: 小白变怪兽
 <li>class 和 id 有什么区别？</li>
 <li>两者那个更常用？</li>
 </ul>
-<a href='http://pan.baidu.com/s/1sjBfvYl'>视频</a>
+<a class="video" href='http://pan.baidu.com/s/1sjBfvYl'>视频</a>
 </div>
 
 <div class="card">
@@ -70,7 +70,7 @@ title: 小白变怪兽
 <li>添加页面？</li>
 <li>这样就可以到公网访问了</li>
 </ul>
-<a href='http://pan.baidu.com/s/1sj1BUln'>视频</a>
+<a class="video" href='http://pan.baidu.com/s/1sj1BUln'>视频</a>
 </div>
 
 <div class="card">
@@ -81,7 +81,7 @@ title: 小白变怪兽
 <li>如何给一个块元素设置水平居中？</li>
 <li>margin padding 的值有四个长度，分别对应那个方向？简写规则是什么？</li>
 </ul>
-<a href='http://pan.baidu.com/s/1pJuo0Gj'>视频</a>
+<a class="video" href='http://pan.baidu.com/s/1pJuo0Gj'>视频</a>
 </div>
 
 <div class="card">
@@ -92,7 +92,7 @@ title: 小白变怪兽
 <li>清除浮动是如何工作的呢？</li>
 <li>如何设置一个两栏式的页面布局？</li>
 </ul>
-<a href='http://pan.baidu.com/s/1kT5Sdoz'>视频</a>
+<a class="video" href='http://pan.baidu.com/s/1kT5Sdoz'>视频</a>
 </div>
 
 <div class="card">
@@ -100,7 +100,7 @@ title: 小白变怪兽
 <ul>
 <li>工程上最佳的清除浮动的方法是什么？</li>
 </ul>
-<a href='http://pan.baidu.com/s/1eQzWF4m'>视频</a>
+<a class="video" href='http://pan.baidu.com/s/1eQzWF4m'>视频</a>
 </div>
 
 <div class="card">
@@ -113,7 +113,7 @@ title: 小白变怪兽
 <li>aliyun 有完善的备案服务</li>
 <li>如何购买阿里云服务器并得到公网 IP 呢？</li>
 </ul>
-<a href='http://pan.baidu.com/s/1sjuQ2BV'>视频</a>
+<a class="video" href='http://pan.baidu.com/s/1sjuQ2BV'>视频</a>
 </div>
 
 <div class="card">
@@ -126,7 +126,7 @@ title: 小白变怪兽
 <li>如何在 ubuntu 命令行环境下作文件夹跳转和移动文件呢</li>
 <li>如何上传文件到服务器</li>
 </ul>
-<a href='http://pan.baidu.com/s/1dDeZRDv'>视频</a>
+<a class="video" href='http://pan.baidu.com/s/1dDeZRDv'>视频</a>
 </div>
 
 <div class="card">
@@ -139,5 +139,5 @@ title: 小白变怪兽
 <li>用国外的服务器不用备案但是就有点慢</li>
 <li>备案要注意哪些问题？</li>
 </ul>
-<a href='http://pan.baidu.com/s/1kTgjBAv'>视频</a>
+<a class="video" href='http://pan.baidu.com/s/1kTgjBAv'>视频</a>
 </div>

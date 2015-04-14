@@ -67,6 +67,11 @@
 - 如何设置一个两栏式的页面布局？
 - baidu: http://pan.baidu.com/s/1kT5Sdoz
 
+任务：最最最重要的一个清浮动的方法 clearfix
+
+- 工程上最佳的清除浮动的方法是什么？
+- baidu: http://pan.baidu.com/s/1eQzWF4m
+
 任务：申请服务器
 
 - id: buy-vps-aliyun

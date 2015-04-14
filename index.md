@@ -96,6 +96,14 @@ title: 小白变怪兽
 </div>
 
 <div class="card">
+<h3>最最最重要的一个清浮动的方法 clearfix</h3>
+<ul>
+<li>工程上最佳的清除浮动的方法是什么？</li>
+</ul>
+<a href='http://pan.baidu.com/s/1eQzWF4m'>视频</a>
+</div>
+
+<div class="card">
 <h3>申请服务器</h3>
 <ul>
 <div class='id'>buy-vps-aliyun</div>

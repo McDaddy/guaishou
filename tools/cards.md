@@ -73,6 +73,14 @@
 - 工程上最佳的清除浮动的方法是什么？
 - baidu: http://pan.baidu.com/s/1eQzWF4m
 
+任务：Css 属性太多，如何学习
+
+- id: learn-css-attributes
+- 你知道 Chrome 开发者工具吗？
+- 如何用它来辅助咱们进行“临摹”式的学习？
+- 查找 CSS 资料最权威的网站是那一个？
+- baidu: http://pan.baidu.com/s/1bnvZfcF
+
 任务：申请服务器
 
 - id: buy-vps-aliyun

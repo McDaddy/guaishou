@@ -105,6 +105,17 @@ title: 小白变怪兽
 </div>
 
 <div class="card">
+<h3>Css 属性太多，如何学习</h3>
+<ul>
+<a href="#learn-css-attributes" class='id' id="learn-css-attributes">learn-css-attributes</a>
+<li>你知道 Chrome 开发者工具吗？</li>
+<li>如何用它来辅助咱们进行“临摹”式的学习？</li>
+<li>查找 CSS 资料最权威的网站是那一个？</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1bnvZfcF'>视频</a>
+</div>
+
+<div class="card">
 <h3>申请服务器</h3>
 <ul>
 <a href="#buy-vps-aliyun" class='id' id="buy-vps-aliyun">buy-vps-aliyun</a>

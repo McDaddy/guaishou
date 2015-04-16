@@ -153,3 +153,16 @@ title: 小白变怪兽
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1kTgjBAv'>视频</a>
 </div>
+
+<div class="card">
+<h3>读懂英文文档</h3>
+<ul>
+<a href="#read-doc-in-english" class='id' id="read-doc-in-english">read-doc-in-english</a>
+<li>读不懂英文文档是因为英文不好吗？</li>
+<li>英文好就一定能读懂英文技术文档吗？</li>
+<li>为啥说先打下技术基础很重要，即使是用中文学懂的？</li>
+<li>为啥有人说“不会用 wikipedia ” 的人不会是好的开发者？</li>
+<li>如何理解英文技术词汇？</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1dD2GDSt'>视频</a>
+</div>

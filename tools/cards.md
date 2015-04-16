@@ -110,3 +110,13 @@
 - 用国外的服务器不用备案但是就有点慢
 - 备案要注意哪些问题？
 - baidu: http://pan.baidu.com/s/1kTgjBAv
+
+任务：读懂英文文档
+
+- id: read-doc-in-english
+- 读不懂英文文档是因为英文不好吗？
+- 英文好就一定能读懂英文技术文档吗？
+- 为啥说先打下技术基础很重要，即使是用中文学懂的？
+- 为啥有人说“不会用 wikipedia ” 的人不会是好的开发者？
+- 如何理解英文技术词汇？
+- baidu: http://pan.baidu.com/s/1dD2GDSt

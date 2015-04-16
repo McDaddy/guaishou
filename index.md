@@ -162,7 +162,7 @@ title: 小白变怪兽
 <li>英文好就一定能读懂英文技术文档吗？</li>
 <li>为啥说先打下技术基础很重要，即使是用中文来学的？</li>
 <li>为啥有人说“不会用 wikipedia ” 的人不会是好的开发者？</li>
-<li>如何理解英文技术词汇？</li>
+<li>如何学习英文技术词汇？</li>
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1dD2GDSt'>视频</a>
 </div>

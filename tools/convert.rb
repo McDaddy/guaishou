@@ -32,7 +32,7 @@ File.open("index.md", 'a') do |f|
 end
 
 
-system 'git add .&&git commit -m"i"&&git push'
+system 'git add -A&&git commit -m"i"&&git push'
 system 'echo "deploy new stuff"'
 system 'ssh peter@happyec.org "source .profile &&/home/peter/bin/ggg.sh"'
 

@@ -30,3 +30,9 @@ end
 File.open("index.md", 'a') do |f|
   f.write(str)
 end
+
+
+system 'git add .&&git commit -m"i"&&git push'
+system 'echo "deploy new stuff"'
+system 'ssh peter@happyec.org "source .profile &&/home/peter/bin/ggg.sh"'
+

@@ -120,3 +120,10 @@
 - 为啥有人说“不会用 wikipedia ” 的人不会是好的开发者？
 - 如何学习英文技术词汇？
 - baidu: http://pan.baidu.com/s/1dD2GDSt
+
+任务：4月16日聚会情况及谈心
+
+- id: talk_04_17_first
+- 跟大家初步商量出了课程的目标和授课的思路
+- 让大家看看 Peter 的这张无辜的脸
+- baidu: http://pan.baidu.com/s/1i3CHTIH

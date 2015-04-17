@@ -166,3 +166,13 @@ title: 小白变怪兽
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1dD2GDSt'>视频</a>
 </div>
+
+<div class="card">
+<h3>4月16日聚会情况及谈心</h3>
+<ul>
+<a href="#talk_04_17_first" class='id' id="talk_04_17_first">talk_04_17_first</a>
+<li>跟大家初步商量出了课程的目标和授课的思路</li>
+<li>让大家看看 Peter 的这张无辜的脸</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1i3CHTIH'>视频</a>
+</div>

@@ -176,3 +176,14 @@ title: 小白变怪兽
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1i3CHTIH'>视频</a>
 </div>
+
+<div class="card">
+<h3>任意摆放元素</h3>
+<ul>
+<a href="#position" class='id' id="position">position</a>
+<li>你知道如何把一个元素任意摆放吗？</li>
+<li>你知道 position: absolute 和 position: relative 如何配合使用吗？</li>
+<li>top left bottom right 这几个属性你用过吗？</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1bn4gH47'>视频</a>
+</div>

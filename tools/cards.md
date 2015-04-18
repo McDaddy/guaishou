@@ -127,3 +127,11 @@
 - 跟大家初步商量出了课程的目标和授课的思路
 - 让大家看看 Peter 的这张无辜的脸
 - baidu: http://pan.baidu.com/s/1i3CHTIH
+
+任务：任意摆放元素
+
+- id: position
+- 你知道如何把一个元素任意摆放吗？
+- 你知道 position: absolute 和 position: relative 如何配合使用吗？
+- top left bottom right 这几个属性你用过吗？
+- baidu: http://pan.baidu.com/s/1bn4gH47

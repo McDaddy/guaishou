@@ -135,3 +135,11 @@
 - 你知道 position: absolute 和 position: relative 如何配合使用吗？
 - top left bottom right 这几个属性你用过吗？
 - baidu: http://pan.baidu.com/s/1bn4gH47
+
+任务：使用 font-awesome “字体图标”
+
+- id: font-icon
+- 如何让一个行内元素，水平，垂直居中？
+- 如何加载 font-awesome 字体图标？
+- 字体图标比图片好在那里？
+- baidu: http://pan.baidu.com/s/1i3krJxF

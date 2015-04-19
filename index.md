@@ -187,3 +187,14 @@ title: 小白变怪兽
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1bn4gH47'>视频</a>
 </div>
+
+<div class="card">
+<h3>使用 font-awesome “字体图标”</h3>
+<ul>
+<a href="#font-icon" class='id' id="font-icon">font-icon</a>
+<li>如何让一个行内元素，水平，垂直居中？</li>
+<li>如何加载 font-awesome 字体图标？</li>
+<li>字体图标比图片好在那里？</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1i3krJxF'>视频</a>
+</div>

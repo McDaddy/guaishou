@@ -143,3 +143,12 @@
 - 如何加载 font-awesome 字体图标？
 - 字体图标比图片好在那里？
 - baidu: http://pan.baidu.com/s/1i3krJxF
+
+
+任务：使用用 github 客户端
+
+- id: github-client
+- 如何往 github 上的仓库添加文件夹？
+- 如何添加图片到仓库中？
+- github 客户端的基本使用
+- baidu: http://pan.baidu.com/s/1ntkjBz7

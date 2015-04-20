@@ -198,3 +198,15 @@ title: 小白变怪兽
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1i3krJxF'>视频</a>
 </div>
+
+
+<div class="card">
+<h3>使用用 github 客户端</h3>
+<ul>
+<a href="#github-client" class='id' id="github-client">github-client</a>
+<li>如何往 github 上的仓库添加文件夹？</li>
+<li>如何添加图片到仓库中？</li>
+<li>github 客户端的基本使用</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1ntkjBz7'>视频</a>
+</div>

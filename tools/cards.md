@@ -145,7 +145,7 @@
 - baidu: http://pan.baidu.com/s/1i3krJxF
 
 
-任务：使用用 github 客户端
+任务：用用 github 客户端
 
 - id: github-client
 - 如何往 github 上的仓库添加文件夹？

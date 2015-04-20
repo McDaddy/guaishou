@@ -201,7 +201,7 @@ title: 小白变怪兽
 
 
 <div class="card">
-<h3>使用用 github 客户端</h3>
+<h3>用用 github 客户端</h3>
 <ul>
 <a href="#github-client" class='id' id="github-client">github-client</a>
 <li>如何往 github 上的仓库添加文件夹？</li>

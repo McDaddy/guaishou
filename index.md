@@ -210,3 +210,15 @@ title: 小白变怪兽
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1ntkjBz7'>视频</a>
 </div>
+
+<div class="card">
+<h3>博客页面排版</h3>
+<ul>
+<a href="#ziti" class='id' id="ziti">ziti</a>
+<li>如何设置好看的字体？</li>
+<li>margin-top 溢出了父元素，怎么办？</li>
+<li>如何用 box-sizing 来保证设置了填充之后，元素自己不变胖？</li>
+<li>字体，行间距，颜色，这些属性都在那里改？</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1mgn93KW'>视频</a>
+</div>

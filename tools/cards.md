@@ -152,3 +152,12 @@
 - 如何添加图片到仓库中？
 - github 客户端的基本使用
 - baidu: http://pan.baidu.com/s/1ntkjBz7
+
+任务：博客页面排版
+
+- id: ziti
+- 如何设置好看的字体？
+- margin-top 溢出了父元素，怎么办？
+- 如何用 box-sizing 来保证设置了填充之后，元素自己不变胖？
+- 字体，行间距，颜色，这些属性都在那里改？
+- baidu: http://pan.baidu.com/s/1mgn93KW

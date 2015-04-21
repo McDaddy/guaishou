@@ -4,3 +4,7 @@
 - 博客功能是最重要的，可以再前端添加评论
 - 未来可以加照片墙，简历页面等等
 - 把我自己的 Blog 重建一下
+- /about 页面参考：http://zachholman.com/about
+
+
+- 照片墙，参考：https://holman.exposure.co/

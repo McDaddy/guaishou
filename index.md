@@ -222,3 +222,15 @@ title: 小白变怪兽
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1mgn93KW'>视频</a>
 </div>
+
+<div class="card">
+<h3>博客图片样式</h3>
+<ul>
+<a href="#max-width" class='id' id="max-width">max-width</a>
+<li>图片大小不一，如何展示美观？</li>
+<li>你知道 max-width 是什么意思吗？</li>
+<li>图片排版的时候为啥经常要先设置 display: block ？</li>
+<li>用 github 客户端把最新代码上传到 github 服务器上</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1bnyboUr'>视频</a>
+</div>

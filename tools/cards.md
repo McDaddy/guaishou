@@ -161,3 +161,12 @@
 - 如何用 box-sizing 来保证设置了填充之后，元素自己不变胖？
 - 字体，行间距，颜色，这些属性都在那里改？
 - baidu: http://pan.baidu.com/s/1mgn93KW
+
+任务：博客图片样式
+
+- id: max-width
+- 图片大小不一，如何展示美观？
+- 你知道 max-width 是什么意思吗？
+- 图片排版的时候为啥经常要先设置 display: block ？
+- 用 github 客户端把最新代码上传到 github 服务器上
+- baidu: http://pan.baidu.com/s/1bnyboUr

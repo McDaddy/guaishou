@@ -170,3 +170,12 @@
 - 图片排版的时候为啥经常要先设置 display: block ？
 - 用 github 客户端把最新代码上传到 github 服务器上
 - baidu: http://pan.baidu.com/s/1bnyboUr
+
+任务：固定位置的 header
+
+- id: position-fixed
+- 设置不随页面而移动的 header
+- 你知道 position: fixed 的使用方法吗？
+- 有哪些副作用需要避免？
+- 一种新的块元素居中的方法
+- baidu: http://pan.baidu.com/s/1qWuncNM

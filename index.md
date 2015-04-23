@@ -234,3 +234,15 @@ title: 小白变怪兽
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1bnyboUr'>视频</a>
 </div>
+
+<div class="card">
+<h3>固定位置的 header</h3>
+<ul>
+<a href="#position-fixed" class='id' id="position-fixed">position-fixed</a>
+<li>设置不随页面而移动的 header</li>
+<li>你知道 position: fixed 的使用方法吗？</li>
+<li>有哪些副作用需要避免？</li>
+<li>一种新的块元素居中的方法</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1qWuncNM'>视频</a>
+</div>

@@ -180,7 +180,7 @@
 - 一种新的块元素居中的方法
 - baidu: http://pan.baidu.com/s/1qWuncNM
 
-认为：添加首页的大背景图
+任务：添加首页的大背景图
 
 - id: background
 - css 中 background 属性的使用

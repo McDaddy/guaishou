@@ -179,3 +179,11 @@
 - 有哪些副作用需要避免？
 - 一种新的块元素居中的方法
 - baidu: http://pan.baidu.com/s/1qWuncNM
+
+认为：添加首页的大背景图
+
+- id: background
+- css 中 background 属性的使用
+- 你知道 background-size: cover 的妙用吗？
+- 使用 photoshop 如何给图片蒙上一个透明图层？
+- baidu: http://pan.baidu.com/s/1pJE7QHX

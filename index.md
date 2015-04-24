@@ -246,3 +246,13 @@ title: 小白变怪兽
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1qWuncNM'>视频</a>
 </div>
+
+认为：添加首页的大背景图
+
+<a href="#background" class='id' id="background">background</a>
+<li>css 中 background 属性的使用</li>
+<li>你知道 background-size: cover 的妙用吗？</li>
+<li>使用 photoshop 如何给图片蒙上一个透明图层？</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1pJE7QHX'>视频</a>
+</div>

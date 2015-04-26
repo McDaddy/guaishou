@@ -187,3 +187,11 @@
 - 你知道 background-size: cover 的妙用吗？
 - 使用 photoshop 如何给图片蒙上一个透明图层？
 - baidu: http://pan.baidu.com/s/1pJE7QHX
+
+任务：Css 样式的优先级
+
+- id: specificity
+- 选择符的精确度决定了优先级
+- !important 有妙用
+- 利用加载顺序来覆盖原有样式是坏主意
+- baidu: http://pan.baidu.com/s/1mgopAQG

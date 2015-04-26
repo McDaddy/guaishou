@@ -257,3 +257,14 @@ title: 小白变怪兽
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1pJE7QHX'>视频</a>
 </div>
+
+<div class="card">
+<h3>Css 样式的优先级</h3>
+<ul>
+<a href="#specificity" class='id' id="specificity">specificity</a>
+<li>选择符的精确度决定了优先级</li>
+<li>!important 有妙用</li>
+<li>利用加载顺序来覆盖原有样式是坏主意</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1mgopAQG'>视频</a>
+</div>

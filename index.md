@@ -268,3 +268,15 @@ title: 小白变怪兽
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1mgopAQG'>视频</a>
 </div>
+
+
+<div class="card">
+<h3>添加水平导航栏</h3>
+<ul>
+<a href="#navbar" class='id' id="navbar">navbar</a>
+<li>如何排列出一个水平的导航栏？</li>
+<li>如何组织 Css 文件结构可以达到最好的代码复用？</li>
+<li>用 .container 保证页面主题内容宽度一致且居中</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1qWsRlKC'>视频</a>
+</div>

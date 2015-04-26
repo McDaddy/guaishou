@@ -195,3 +195,12 @@
 - !important 有妙用
 - 利用加载顺序来覆盖原有样式是坏主意
 - baidu: http://pan.baidu.com/s/1mgopAQG
+
+
+任务：添加水平导航栏
+
+- id: navbar
+- 如何排列出一个水平的导航栏？
+- 如何组织 Css 文件结构可以达到最好的代码复用？
+- 用 .container 保证页面主题内容宽度一致且居中
+- baidu: http://pan.baidu.com/s/1qWsRlKC

@@ -280,3 +280,22 @@ title: 小白变怪兽
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1qWsRlKC'>视频</a>
 </div>
+
+<div class="card">
+<h3>带图片的博客列表</h3>
+<ul>
+<a href="#post-list" class='id' id="post-list">post-list</a>
+<li>你知道如何对图片设置长宽，圆角和链接吗？</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1qW3aAV6'>视频</a>
+</div>
+
+<div class="card">
+<h3>添加让人舒适的过渡效果</h3>
+<ul>
+<a href="#transition" class='id' id="transition">transition</a>
+<li>演示了“伪元素” :before 的一个应用场合</li>
+<li>三个 transition 效果实例</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1sjulhXr'>视频</a>
+</div>

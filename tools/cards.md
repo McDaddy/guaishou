@@ -204,3 +204,16 @@
 - 如何组织 Css 文件结构可以达到最好的代码复用？
 - 用 .container 保证页面主题内容宽度一致且居中
 - baidu: http://pan.baidu.com/s/1qWsRlKC
+
+任务：带图片的博客列表
+
+- id: post-list
+- 你知道如何对图片设置长宽，圆角和链接吗？
+- baidu: http://pan.baidu.com/s/1qW3aAV6
+
+任务：添加让人舒适的过渡效果
+
+- id: transition
+- 演示了“伪元素” :before 的一个应用场合
+- 三个 transition 效果实例
+- baidu: http://pan.baidu.com/s/1sjulhXr

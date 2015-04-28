@@ -299,3 +299,22 @@ title: 小白变怪兽
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1sjulhXr'>视频</a>
 </div>
+
+<div class="card">
+<h3>重构代码，增加博客大图</h3>
+<ul>
+<a href="#z-index" class='id' id="z-index">z-index</a>
+<li>涉及到两个元素重叠的时候，如何使用 z-index 来解决？</li>
+<li>重构代码（ refactor ）是项目开发的常态</li>
+<li>如何用 photoshop 得到固定尺寸的图片</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1dKPdW'>视频</a>
+</div>
+
+<div class="card">
+<h3>去掉浏览器缩小后出现难看的白边</h3>
+<ul>
+<a href="#min-max" class='id' id="min-max">min-max</a>
+<li>一个块元素默认的宽度遵循怎样的规则呢？</li>
+<li>max-width 和 min-width 在实际中都有什么用处？</li>
+<li>解决白边问题的方案是什么呢？</li>

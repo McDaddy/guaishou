@@ -217,3 +217,18 @@
 - 演示了“伪元素” :before 的一个应用场合
 - 三个 transition 效果实例
 - baidu: http://pan.baidu.com/s/1sjulhXr
+
+任务：重构代码，增加博客大图
+
+- id: z-index
+- 涉及到两个元素重叠的时候，如何使用 z-index 来解决？
+- 重构代码（ refactor ）是项目开发的常态
+- 如何用 photoshop 得到固定尺寸的图片
+- baidu: http://pan.baidu.com/s/1dKPdW
+
+任务：去掉浏览器缩小后出现难看的白边
+
+- id: min-max
+- 一个块元素默认的宽度遵循怎样的规则呢？
+- max-width 和 min-width 在实际中都有什么用处？
+- 解决白边问题的方案是什么呢？

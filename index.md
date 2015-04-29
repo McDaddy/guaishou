@@ -321,3 +321,14 @@ title: 小白变怪兽
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1c0o6daC'>视频</a>
 </div>
+
+<div class="card">
+<h3>添加 footer</h3>
+<ul>
+<a href="#css-reuse" class='id' id="css-reuse">css-reuse</a>
+<li>为什么要通过选择符的精确度来确定样式的应用的优先级？</li>
+<li>逗号隔开，空格隔开，以及连着写，这三种选择符的书写形式有什么区别？</li>
+<li>不管是整个项目还是一小块页面之内，CSS 书写都要区分全局和局部，这样才有高的代码复用度</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1ntDqoIl'>视频</a>
+</div>

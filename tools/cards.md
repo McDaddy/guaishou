@@ -233,3 +233,11 @@
 - max-width 和 min-width 在实际中都有什么用处？
 - 解决白边问题的方案是什么呢？
 - baidu: http://pan.baidu.com/s/1c0o6daC
+
+任务：添加 footer
+
+- id: css-reuse
+- 为什么要通过选择符的精确度来确定样式的应用的优先级？
+- 逗号隔开，空格隔开，以及连着写，这三种选择符的书写形式有什么区别？
+- 不管是整个项目还是一小块页面之内，CSS 书写都要区分全局和局部，这样才有高的代码复用度
+- baidu: http://pan.baidu.com/s/1ntDqoIl

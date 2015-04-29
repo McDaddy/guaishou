@@ -2,6 +2,7 @@
 title: 小白变怪兽
 ---
 
+<div class='count'>29</div>
 <div class="card">
 <h3>安装 chrome 浏览器和简单网页开发</h3>
 <ul>

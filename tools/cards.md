@@ -241,3 +241,11 @@
 - 逗号隔开，空格隔开，以及连着写，这三种选择符的书写形式有什么区别？
 - 不管是整个项目还是一小块页面之内，CSS 书写都要区分全局和局部，这样才有高的代码复用度
 - baidu: http://pan.baidu.com/s/1ntDqoIl
+
+任务：我对切图的看法
+
+- id: qietu-dead
+- psd 到 html 的这种切图工作流有什么局限性
+- 为什么当代 web 开发流程中逐渐放弃这种工作流？
+- 正确的设计工作流是什么？
+- baidu: http://pan.baidu.com/s/1gdpMnab

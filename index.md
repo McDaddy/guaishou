@@ -2,7 +2,7 @@
 title: 小白变怪兽
 ---
 
-<div class='count'>29</div>
+<div class='count'>30</div>
 <div class="card">
 <h3>安装 chrome 浏览器和简单网页开发</h3>
 <ul>
@@ -332,4 +332,15 @@ title: 小白变怪兽
 <li>不管是整个项目还是一小块页面之内，CSS 书写都要区分全局和局部，这样才有高的代码复用度</li>
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1ntDqoIl'>视频</a>
+</div>
+
+<div class="card">
+<h3>我对切图的看法</h3>
+<ul>
+<a href="#qietu-dead" class='id' id="qietu-dead">qietu-dead</a>
+<li>psd 到 html 的这种切图工作流有什么局限性</li>
+<li>为什么当代 web 开发流程中逐渐放弃这种工作流？</li>
+<li>正确的设计工作流是什么？</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1gdpMnab'>视频</a>
 </div>

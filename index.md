@@ -2,7 +2,7 @@
 title: 小白变怪兽
 ---
 
-<div class='count'>31</div>
+<div class='count'>32</div>
 <div class="card">
 <h3>安装 chrome 浏览器和简单网页开发</h3>
 <ul>
@@ -352,4 +352,15 @@ title: 小白变怪兽
 <li>布局文件也叫 layout 文件的作用</li>
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1bnbHq3d'>视频</a>
+</div>
+
+<div class="card">
+<h3>改用 gitcafe.com 来托管页面</h3>
+<ul>
+<a href="#gitcafe" class='id' id="gitcafe">gitcafe</a>
+<li>github.com 在国内访问太慢</li>
+<li>没关系，国内有类似的服务 gitcafe.com</li>
+<li>来演示一下怎么搬家</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1o6j2vay'>视频</a>
 </div>

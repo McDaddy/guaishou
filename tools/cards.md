@@ -255,3 +255,11 @@
 - id: layout
 - 布局文件也叫 layout 文件的作用
 - baidu: http://pan.baidu.com/s/1bnbHq3d
+
+任务：改用 gitcafe.com 来托管页面
+
+- id: gitcafe
+- github.com 在国内访问太慢
+- 没关系，国内有类似的服务 gitcafe.com
+- 来演示一下怎么搬家
+- baidu: http://pan.baidu.com/s/1o6j2vay

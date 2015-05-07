@@ -2,7 +2,7 @@
 title: 小白变怪兽
 ---
 
-<div class='count'>30</div>
+<div class='count'>31</div>
 <div class="card">
 <h3>安装 chrome 浏览器和简单网页开发</h3>
 <ul>
@@ -343,4 +343,13 @@ title: 小白变怪兽
 <li>正确的设计工作流是什么？</li>
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1gdpMnab'>视频</a>
+</div>
+
+<div class="card">
+<h3>布局文件</h3>
+<ul>
+<a href="#layout" class='id' id="layout">layout</a>
+<li>布局文件也叫 layout 文件的作用</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1bnbHq3d'>视频</a>
 </div>

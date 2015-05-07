@@ -249,3 +249,9 @@
 - 为什么当代 web 开发流程中逐渐放弃这种工作流？
 - 正确的设计工作流是什么？
 - baidu: http://pan.baidu.com/s/1gdpMnab
+
+任务：布局文件
+
+- id: layout
+- 布局文件也叫 layout 文件的作用
+- baidu: http://pan.baidu.com/s/1bnbHq3d

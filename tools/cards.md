@@ -263,3 +263,11 @@
 - 没关系，国内有类似的服务 gitcafe.com
 - 来演示一下怎么搬家
 - baidu: http://pan.baidu.com/s/1o6j2vay
+
+任务：学会 Markdown
+
+- id: markdown
+- markdown 是什么？
+- 怎么来用？
+- 用在哪些场合？
+- id: http://pan.baidu.com/s/1kT3RuXT

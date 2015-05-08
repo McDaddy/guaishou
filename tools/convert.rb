@@ -19,7 +19,6 @@ str = str.gsub(/^###\s?(.*?)\s?$/, "<h3>\\1</h3>\n").
   gsub(/^\-\s?(.*?)$/, "<li>\\1</li>")
 
 
-
 front = <<HEREDOC
 ---
 title: 小白变怪兽

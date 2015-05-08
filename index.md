@@ -2,7 +2,7 @@
 title: 小白变怪兽
 ---
 
-<div class='count'>34</div>
+<div class='count'>33</div>
 <div class="card">
 <h3>安装 chrome 浏览器和简单网页开发</h3>
 <ul>
@@ -372,4 +372,6 @@ title: 小白变怪兽
 <li>markdown 是什么？</li>
 <li>怎么来用？</li>
 <li>用在哪些场合？</li>
-<a href="#http://pan.baidu.com/s/1kT3RuXT" class='id' id="http://pan.baidu.com/s/1kT3RuXT">http://pan.baidu.com/s/1kT3RuXT</a>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1kT3RuXT'>视频</a>
+</div>

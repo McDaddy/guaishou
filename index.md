@@ -2,7 +2,7 @@
 title: 小白变怪兽
 ---
 
-<div class='count'>33</div>
+<div class='count'>34</div>
 <div class="card">
 <h3>安装 chrome 浏览器和简单网页开发</h3>
 <ul>
@@ -374,4 +374,14 @@ title: 小白变怪兽
 <li>用在哪些场合？</li>
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1kT3RuXT'>视频</a>
+</div>
+
+<div class="card">
+<h3>使用 Jekyll 框架来自动加载布局文件</h3>
+<ul>
+<a href="#jekyll-layout" class='id' id="jekyll-layout">jekyll-layout</a>
+<li>Jekyll 是什么？</li>
+<li>Jekyll 中如何使用布局文件</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1qWmgpli'>视频</a>
 </div>

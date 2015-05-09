@@ -271,3 +271,10 @@
 - 怎么来用？
 - 用在哪些场合？
 - baidu: http://pan.baidu.com/s/1kT3RuXT
+
+任务：使用 Jekyll 框架来自动加载布局文件
+
+- id: jekyll-layout
+- Jekyll 是什么？
+- Jekyll 中如何使用布局文件
+- baidu: http://pan.baidu.com/s/1qWmgpli

@@ -2,7 +2,7 @@
 title: 小白变怪兽
 ---
 
-<div class='count'>34</div>
+<div class='count'>35</div>
 <div class="card">
 <h3>安装 chrome 浏览器和简单网页开发</h3>
 <ul>
@@ -384,4 +384,14 @@ title: 小白变怪兽
 <li>Jekyll 中如何使用布局文件</li>
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1qWmgpli'>视频</a>
+</div>
+
+<div class="card">
+<h3>添加 about 页面</h3>
+<ul>
+<a href="#about" class='id' id="about">about</a>
+<li>在应用了 Jekyll 的结构之后，如何进行本地的页面开发呢？</li>
+<li>版本控制工具 Git，可以记录每一次的修改内容，如何查看呢？</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1qW1Ftes'>视频</a>
 </div>

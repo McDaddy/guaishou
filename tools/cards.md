@@ -278,3 +278,10 @@
 - Jekyll 是什么？
 - Jekyll 中如何使用布局文件
 - baidu: http://pan.baidu.com/s/1qWmgpli
+
+任务：添加 about 页面
+
+- id: about
+- 在应用了 Jekyll 的结构之后，如何进行本地的页面开发呢？
+- 版本控制工具 Git，可以记录每一次的修改内容，如何查看呢？
+- baidu: http://pan.baidu.com/s/1qW1Ftes

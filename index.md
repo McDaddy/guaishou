@@ -2,7 +2,7 @@
 title: 小白变怪兽
 ---
 
-<div class='count'>35</div>
+<div class='count'>36</div>
 <div class="card">
 <h3>安装 chrome 浏览器和简单网页开发</h3>
 <ul>
@@ -394,4 +394,15 @@ title: 小白变怪兽
 <li>版本控制工具 Git，可以记录每一次的修改内容，如何查看呢？</li>
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1qW1Ftes'>视频</a>
+</div>
+
+<div class="card">
+<h3>响应式设计简介</h3>
+<ul>
+<a href="#why-responsive" class='id' id="why-responsive">why-responsive</a>
+<li>什么是 Responsive Design ？</li>
+<li>通常都有哪些技巧？</li>
+<li>用了响应式设计有什么好处？</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1jG5V3xG'>视频</a>
 </div>

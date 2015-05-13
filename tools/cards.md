@@ -285,3 +285,11 @@
 - 在应用了 Jekyll 的结构之后，如何进行本地的页面开发呢？
 - 版本控制工具 Git，可以记录每一次的修改内容，如何查看呢？
 - baidu: http://pan.baidu.com/s/1qW1Ftes
+
+任务：响应式设计简介
+
+- id: why-responsive
+- 什么是 Responsive Design ？
+- 通常都有哪些技巧？
+- 用了响应式设计有什么好处？
+- baidu: http://pan.baidu.com/s/1jG5V3xG

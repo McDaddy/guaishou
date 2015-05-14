@@ -2,7 +2,7 @@
 title: 小白变怪兽
 ---
 
-<div class='count'>36</div>
+<div class='count'>37</div>
 <div class="card">
 <h3>安装 chrome 浏览器和简单网页开发</h3>
 <ul>
@@ -405,4 +405,16 @@ title: 小白变怪兽
 <li>用了响应式设计有什么好处？</li>
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1jG5V3xG'>视频</a>
+</div>
+
+<div class="card">
+<h3>制作 favicon 小图标</h3>
+<ul>
+<a href="#favicon" class='id' id="favicon">favicon</a>
+<li>遇到问题如何来查文档？</li>
+<li>w3school mdn google baidu css-tricks alistpart 这些资源分别都有什么作用？</li>
+<li>如何用 photoshop 来调整图片格式制作 favicon ？</li>
+<li>如何安装的photoshop 支持 ico 格式的插件？</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1dDpkG7J'>视频</a>
 </div>

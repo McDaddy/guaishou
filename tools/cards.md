@@ -293,3 +293,12 @@
 - 通常都有哪些技巧？
 - 用了响应式设计有什么好处？
 - baidu: http://pan.baidu.com/s/1jG5V3xG
+
+任务：制作 favicon 小图标
+
+- id: favicon
+- 遇到问题如何来查文档？
+- w3school mdn google baidu css-tricks alistpart 这些资源分别都有什么作用？
+- 如何用 photoshop 来调整图片格式制作 favicon ？
+- 如何安装的photoshop 支持 ico 格式的插件？
+- baidu: http://pan.baidu.com/s/1dDpkG7J

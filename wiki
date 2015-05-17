@@ -1,3 +1,7 @@
+- responsive design
+  - phpacademy: https://www.youtube.com/watch?v=KX94fPaKqaU
+  - viewport 绝对牛：https://www.youtube.com/watch?v=XrMTuTzX4co
+
 最终要做出的东东：
 
 - 个人网站，material design 风格的

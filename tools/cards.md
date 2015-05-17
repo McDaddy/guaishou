@@ -302,3 +302,10 @@
 - 如何用 photoshop 来调整图片格式制作 favicon ？
 - 如何安装的photoshop 支持 ico 格式的插件？
 - baidu: http://pan.baidu.com/s/1dDpkG7J
+
+任务：viewport 设置来取消手机的自动缩放
+
+- id: viewport
+- 手机显示一个网页的原理是什么？
+- 需要添加怎样的代码来取消自动缩放的功能？
+- baidu: http://pan.baidu.com/s/10gqAy

@@ -2,7 +2,7 @@
 title: 小白变怪兽
 ---
 
-<div class='count'>37</div>
+<div class='count'>38</div>
 <div class="card">
 <h3>安装 chrome 浏览器和简单网页开发</h3>
 <ul>
@@ -417,4 +417,14 @@ title: 小白变怪兽
 <li>如何安装的photoshop 支持 ico 格式的插件？</li>
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1dDpkG7J'>视频</a>
+</div>
+
+<div class="card">
+<h3>viewport 设置来取消手机的自动缩放</h3>
+<ul>
+<a href="#viewport" class='id' id="viewport">viewport</a>
+<li>手机显示一个网页的原理是什么？</li>
+<li>需要添加怎样的代码来取消自动缩放的功能？</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/10gqAy'>视频</a>
 </div>

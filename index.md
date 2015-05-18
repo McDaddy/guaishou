@@ -2,7 +2,7 @@
 title: 小白变怪兽
 ---
 
-<div class='count'>38</div>
+<div class='count'>39</div>
 <div class="card">
 <h3>安装 chrome 浏览器和简单网页开发</h3>
 <ul>
@@ -427,4 +427,14 @@ title: 小白变怪兽
 <li>需要添加怎样的代码来取消自动缩放的功能？</li>
 </ul>
 <a class="video" href='http://pan.baidu.com/s/10gqAy'>视频</a>
+</div>
+
+<div class="card">
+<h3>了解 media-query ，相应式设计的核心技巧</h3>
+<ul>
+<a href="#media-query" class='id' id="media-query">media-query</a>
+<li>如何使用”媒介查询“？</li>
+<li>手机，ipad 等各种设备的查询宽度是多少？</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1hqF3lA0'>视频</a>
 </div>

@@ -1,6 +1,7 @@
 - responsive design
   - phpacademy: https://www.youtube.com/watch?v=KX94fPaKqaU
   - viewport 绝对牛：https://www.youtube.com/watch?v=XrMTuTzX4co
+    - 通常的手机设备的 layout viewport 就是 990 像素
 
 最终要做出的东东：
 

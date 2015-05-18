@@ -309,3 +309,10 @@
 - 手机显示一个网页的原理是什么？
 - 需要添加怎样的代码来取消自动缩放的功能？
 - baidu: http://pan.baidu.com/s/10gqAy
+
+任务：了解 media-query ，相应式设计的核心技巧
+
+- id: media-query
+- 如何使用”媒介查询“？
+- 手机，ipad 等各种设备的查询宽度是多少？
+- baidu: http://pan.baidu.com/s/1hqF3lA0

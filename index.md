@@ -2,7 +2,7 @@
 title: 小白变怪兽
 ---
 
-<div class='count'>39</div>
+<div class='count'>40</div>
 <div class="card">
 <h3>安装 chrome 浏览器和简单网页开发</h3>
 <ul>
@@ -437,4 +437,13 @@ title: 小白变怪兽
 <li>手机，ipad 等各种设备的查询宽度是多少？</li>
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1hqF3lA0'>视频</a>
+</div>
+
+<div class="card">
+<h3>把首页变成 responsive 的</h3>
+<ul>
+<a href="#responsive-homepage" class='id' id="responsive-homepage">responsive-homepage</a>
+<li>为啥要使用相对长度，例如百分比，或是 em ？</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1mgzfZJU'>视频</a>
 </div>

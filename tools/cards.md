@@ -316,3 +316,9 @@
 - 如何使用”媒介查询“？
 - 手机，ipad 等各种设备的查询宽度是多少？
 - baidu: http://pan.baidu.com/s/1hqF3lA0
+
+任务：把首页变成 responsive 的
+
+- id: responsive-homepage
+- 为啥要使用相对长度，例如百分比，或是 em ？
+- baidu: http://pan.baidu.com/s/1mgzfZJU

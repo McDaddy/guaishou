@@ -322,3 +322,11 @@
 - id: responsive-homepage
 - 为啥要使用相对长度，例如百分比，或是 em ？
 - baidu: http://pan.baidu.com/s/1mgzfZJU
+
+任务：gitcafe 上托管网页的另一种形式
+
+- id: gitcafe-project-page
+- 前面的一期讲的是如何以“个人页面”的形式来托管页面
+- 本集介绍如何以“项目主页”的形式来托管
+- 先用 github 客户端来操作，然后配有命令行操作
+- baidu: http://pan.baidu.com/s/1bnzywvt

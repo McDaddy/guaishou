@@ -2,7 +2,7 @@
 title: 小白变怪兽
 ---
 
-<div class='count'>40</div>
+<div class='count'>41</div>
 <div class="card">
 <h3>安装 chrome 浏览器和简单网页开发</h3>
 <ul>
@@ -446,4 +446,15 @@ title: 小白变怪兽
 <li>为啥要使用相对长度，例如百分比，或是 em ？</li>
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1mgzfZJU'>视频</a>
+</div>
+
+<div class="card">
+<h3>gitcafe 上托管网页的另一种形式</h3>
+<ul>
+<a href="#gitcafe-project-page" class='id' id="gitcafe-project-page">gitcafe-project-page</a>
+<li>前面的一期讲的是如何以“个人页面”的形式来托管页面</li>
+<li>本集介绍如何以“项目主页”的形式来托管</li>
+<li>先用 github 客户端来操作，然后配有命令行操作</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1bnzywvt'>视频</a>
 </div>

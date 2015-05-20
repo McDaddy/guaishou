@@ -330,3 +330,12 @@
 - 本集介绍如何以“项目主页”的形式来托管
 - 先用 github 客户端来操作，然后配有命令行操作
 - baidu: http://pan.baidu.com/s/1bnzywvt
+
+任务：添加 ssh key 到 gitcafe.com
+
+- id: gitcafe-sshkey
+- 如何生成 ssh key ？
+- 如何添加到 gitcafe.com 上？
+- 主要演示了如何在 Mac 系统上操作
+- 给出了 Windows 下操作的参考文档
+- baidu: http://pan.baidu.com/s/1o6HYUwE

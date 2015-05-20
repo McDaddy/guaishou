@@ -2,7 +2,7 @@
 title: 小白变怪兽
 ---
 
-<div class='count'>41</div>
+<div class='count'>42</div>
 <div class="card">
 <h3>安装 chrome 浏览器和简单网页开发</h3>
 <ul>
@@ -457,4 +457,16 @@ title: 小白变怪兽
 <li>先用 github 客户端来操作，然后配有命令行操作</li>
 </ul>
 <a class="video" href='http://pan.baidu.com/s/1bnzywvt'>视频</a>
+</div>
+
+<div class="card">
+<h3>添加 ssh key 到 gitcafe.com</h3>
+<ul>
+<a href="#gitcafe-sshkey" class='id' id="gitcafe-sshkey">gitcafe-sshkey</a>
+<li>如何生成 ssh key ？</li>
+<li>如何添加到 gitcafe.com 上？</li>
+<li>主要演示了如何在 Mac 系统上操作</li>
+<li>给出了 Windows 下操作的参考文档</li>
+</ul>
+<a class="video" href='http://pan.baidu.com/s/1o6HYUwE'>视频</a>
 </div>

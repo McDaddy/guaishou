@@ -16,10 +16,11 @@
 .header .logo  {
   position: absolute;
   bottom: -40px;
+  right: 5px;
   display: block;
-  width: 80px;
-  height: 80px;
-  padding: 15px;
+  width: 60px;
+  height: 60px;
+  padding: 10px;
   background: white;
   border-radius: 50%;
   border: 1px;
@@ -29,8 +30,8 @@
 
 .header .logo svg {
   fill: red;
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
 }
 
 .header .logo:hover {

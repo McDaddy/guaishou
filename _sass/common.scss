@@ -28,5 +28,12 @@ body {
   background: rgb(242, 242, 242);
   margin: 0;
   font-family: sans-serif;
+  font-size: 14px;
+}
+
+@media ( max-width: 500px ) {
+  body {
+    font-size: 90%;
+  }
 }
 

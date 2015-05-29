@@ -19,7 +19,7 @@
   .card {
     width: 97%;
     margin: 15px auto;
-    padding-left: 80px;
+    padding-left: 70px;
   }
 }
 
@@ -79,10 +79,11 @@
 
 @media ( max-width: 500px ) {
   .card ul {
-    padding: 5px 20px 20px;
+    padding: 0 5px 10px 5px;
   }
   .card h3 {
     padding: 20px 10px 0 10px;
+    text-align: center;
   }
 }
 

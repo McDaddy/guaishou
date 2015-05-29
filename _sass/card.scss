@@ -60,7 +60,7 @@
 }
 
 @media ( max-width: 500px ) {
-  ..card a.video {
+  .card a.video {
     width: 60px;
     background: #41a9cc url("images/play_list_big.png") no-repeat 22px 50%;
   }

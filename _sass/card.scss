@@ -1,13 +1,18 @@
 /* card */
 
+* {
+  box-sizing: border-box;
+}
+
 .card {
   position: relative;
   width: 960px;
   margin: 40px auto;
   background: white;
   box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);
-  border-radius: 2px;
+  border-radius: 5px;
   border: 0;
+  padding-left: 160px;
 }
 
 .card .id {
@@ -36,27 +41,19 @@
   opacity: 0.4;
 }
 
-.card a.video:before {
-  content: "";
+.card a.video{
   display: block;
-  width: 30px;
-  height: 24px;
-  float: left;
-  background: url(images/ic_videocam_24px.svg) no-repeat;
+  width: 140px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #41a9cc url("images/play_list_big.png") no-repeat 30px 50%;
   opacity: 0.4;
 }
 
-
-.card a.video{
-  position: absolute;
-  bottom: 50px;
-  right: 40px;
-  line-height: 24px;
-  text-decoration: none;
-  color: teal;
-}
 .card a.video:hover {
-  text-decoration: underline;
+  background-color: #00668f;
 }
 
 .card ul {

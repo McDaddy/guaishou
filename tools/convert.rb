@@ -14,7 +14,7 @@ count_string = "<div class='count'>" + num.to_s + "</div>" + "\n"
 
 str = str.gsub(/^###\s?(.*?)\s?$/, "<h3>\\1</h3>\n").
   gsub(/^任务：\s?(.*?)\n$/, "<div class=\"card\">\n<h3>\\1</h3>\n<ul>").
-  gsub(/^\-\s+baidu:\s?(.*?)$/, "</ul>\n<a class=\"video\" href='\\1'>视频</a>\n</div>").
+  gsub(/^\-\s+baidu:\s?(.*?)$/, "</ul>\n<a class=\"video\" href='\\1'></a>\n</div>").
   gsub(/^\-\s+id: \s?(.*?)$/, "<a href=\"\#\\1\" class='id' id=\"\\1\">\\1</a>").
   gsub(/^\-\s?(.*?)$/, "<li>\\1</li>")
 

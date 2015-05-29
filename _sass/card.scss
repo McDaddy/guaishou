@@ -19,6 +19,7 @@
   .card {
     width: 97%;
     margin: 15px auto;
+    padding-left: 80px;
   }
 }
 
@@ -56,6 +57,13 @@
   top: 0;
   left: 0;
   background: #41a9cc url("images/play_list_big.png") no-repeat 62px 50%;
+}
+
+@media ( max-width: 500px ) {
+  ..card a.video {
+    width: 60px;
+    background: #41a9cc url("images/play_list_big.png") no-repeat 22px 50%;
+  }
 }
 
 .card a.video:hover {

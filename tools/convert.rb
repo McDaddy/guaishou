@@ -25,7 +25,9 @@ File.open("index.md", 'w') do |f|
   f.write(front)
 end
 
-
+File.open("index.md", 'a') do |f|
+  f.write(str)
+end
 system 'git add -A;git commit -m"i";git push'
 system 'echo "deploy new stuff"'
 system 'ssh peter@happyec.org "source .profile &&/home/peter/bin/card_deploy.sh"'

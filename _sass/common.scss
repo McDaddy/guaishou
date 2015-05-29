@@ -11,7 +11,10 @@
   margin: 0 auto;
 }
 
-@media ( max-width: 500px ) {
+@media ( max-width: 970px ) {
+  // 只要装不下 960px 的 container 的时候，就改为手机布局
+  // 这样在 ipad 上表现并不一定完美，但是也一定是可以看的
+  // 如果设置成到 500px 才改，那么 500~960 的设备宽度上就完蛋了
   .container {
     width: 97%;
   }
@@ -31,7 +34,7 @@ body {
   font-size: 14px;
 }
 
-@media ( max-width: 500px ) {
+@media ( max-width: 970px ) {
   body {
     font-size: 90%;
   }

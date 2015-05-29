@@ -1,6 +1,11 @@
 
 /* common.css */
 
+
+* {
+  box-sizing: border-box;
+}
+
 .container {
   width: 960px;
   margin: 0 auto;
@@ -19,3 +24,4 @@ body {
   margin: 0;
   font-family: sans-serif;
 }
+

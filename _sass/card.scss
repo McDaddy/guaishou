@@ -36,15 +36,6 @@
   outline: none;
 }
 
-.card:before {
-  content: "";
-  -webkit-border-radius: 50%;
-  border-radius: 50%;
-  width: 20px;
-  height: 20px;
-  background: red;
-}
-
 .card img {
   opacity: 0.4;
 }
@@ -77,6 +68,7 @@
   line-height: 1.9;
 }
 
+
 .card h3 {
   font-size: 1.3em;
   font-weight: normal;
@@ -84,3 +76,13 @@
   position: relative;
   padding: 45px  20px 0 20px;
 }
+
+@media ( max-width: 500px ) {
+  .card ul {
+    padding: 5px 20px 20px;
+  }
+  .card h3 {
+    padding: 20px 10px 0 10px;
+  }
+}
+

@@ -16,7 +16,6 @@ title: 关于课程
   <div class="about-card">
     <h3>课程目标</h3>
     <ul>
-      <div class='id'>course-aim</div>
       <li>
         课程的主要内容以前端为主。但是不深挖，不是一套前端高手课程。而是为大家后面学习
         Rails/Nodejs/PHP 整站开发打基础的课程，保证大家拥有 Modern Developer

@@ -1,10 +1,10 @@
 ---
-layout: about
+layout: default
 title: 关于课程
 ---
 
-<div class="container">
-  <div class="card">
+<div class="about container">
+  <div class="about-card">
     <h3>课程名称</h3>
     <ul>
       <div class='id'>course-name</div>
@@ -13,7 +13,7 @@ title: 关于课程
       </li>
     </ul>
   </div>
-  <div class="card">
+  <div class="about-card">
     <h3>课程目标</h3>
     <ul>
       <div class='id'>course-aim</div>

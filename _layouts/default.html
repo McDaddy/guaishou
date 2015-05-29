@@ -1,16 +1,30 @@
 <!DOCTYPE html>
 <html>
 <head>
-  {% include head.html %}
+  <meta charset='utf-8'>
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" type="text/css" href="app.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" type="image/png" href="../favicon.png">
+  <script type='text/javascript' src='javascript/jquery-2.1.3.min.js'></script>
 </head>
 <body>
-  {% include header.html %}
-  {% include default-banner.html %}
-
+  <div class="header">
+    <div class="container">
+      <a href="/" class="name">小白变怪兽卡片</a>
+      <p>
+            课程是适合0基础的同学的，卡片难度由上到下递增，先学卡片，<a href="http://haoduoshipin.com/q">然后点这里提问</a>。也可以<a href="about.html">点这里</a>查看更多课程说明。
+      </p>
+      <a class="logo" href="/">
+        <img src="images/logo.png">
+      </a>
+    </div>
+  </div>
 
   {{ content }}
 
   <div class="footer">
+    <a href="http://haoduoshipin.com">好多视频网</a>
   </div>
 </body>
 </html>

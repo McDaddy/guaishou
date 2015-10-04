@@ -21,6 +21,7 @@ body {
   background: #f2f2f2;
   margin: 0;
   font-family: sans-serif;
+  line-height: 1.8;
   font-size: 14px; }
 
 @media (max-width: 970px) {
@@ -36,7 +37,8 @@ body {
   position: relative; }
 
 .header .intro {
-  color: #9c9c9c;
+  color: #fff;
+  opacity: .8;
   padding: 15px 0 50px;
   margin: 0; }
 
@@ -86,17 +88,6 @@ body {
 
   .header .intro {
     padding: 15px 20px 30px; } }
-/* footer */
-.footer {
-  height: 440px;
-  background: #444;
-  margin-top: 60px; }
-
-.footer a {
-  display: block;
-  text-align: center;
-  padding-top: 20px;
-  color: #9c9c9c; }
 
 /* card */
 .card {
@@ -176,3 +167,46 @@ body {
     padding: 22px 10px 5px 5px;
     opacity: 0.8;
     color: teal; } }
+/* footer */
+footer {
+  height: 440px;
+  background: #444;
+  margin-top: 60px;
+}
+
+footer p {
+  padding-top: 2em;
+  color: white;
+  opacity: .8;
+  text-align: center;
+}
+
+footer a {
+  text-align: center;
+  padding-top: 2em;
+  opacity: .8;
+  text-decoration: underline;
+  color: #fff; }
+
+
+footer img {
+  display: block;
+  margin: 2em auto;
+  width: 19em;
+  height: 19em;
+  border-radius: 50%;
+}
+
+
+/* about */
+
+.about h1 {
+  text-align: center;
+}
+.about img {
+  width: 7em;
+  height: 7em;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 3em;
+}

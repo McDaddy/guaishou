@@ -68,6 +68,7 @@ html {
   .header .name {
     padding-top: 30px;
     display: block;
+    line-height: 1;
     color: white;
     font-size: 2.1em;
     margin-bottom: .5em;

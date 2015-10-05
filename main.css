@@ -180,6 +180,9 @@ footer img {
 .about h2 {
   text-align: center;
 }
+.about p {
+  opacity: .8;
+}
 .about img {
   width: 7em;
   height: 7em;

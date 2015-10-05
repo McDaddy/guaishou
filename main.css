@@ -35,8 +35,7 @@ html {
 /* header */
 .header {
   background: #3c3c3c;
-  margin-bottom: 70px;
-  line-height: 1.5; }
+  margin-bottom: 70px;}
 
 .header .container {
   position: relative; }

@@ -35,6 +35,7 @@ html {
 /* header */
 .header {
   background: #3c3c3c;
+  padding-top: 4rem;
   margin-bottom: 70px;}
 
 .header .container {
@@ -66,7 +67,6 @@ html {
   height: 2em; }
 
   .header .name {
-    padding-top: 30px;
     display: block;
     line-height: 1;
     color: white;

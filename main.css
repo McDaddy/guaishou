@@ -27,6 +27,7 @@ body {
 @media (max-width: 970px) {
   body {
     font-size: 90%; } }
+
 /* header */
 .header {
   background: #3c3c3c;
@@ -39,8 +40,9 @@ body {
 .header .intro {
   color: #fff;
   opacity: .8;
-  padding: 15px 0 50px;
-  margin: 0; }
+  margin: 0;
+  padding-bottom: 2em;
+}
 
 .header .logo {
   position: absolute;
@@ -61,6 +63,14 @@ body {
   width: 30px;
   height: 30px; }
 
+  .header .name {
+    padding-top: 30px;
+    display: block;
+    color: white;
+    font-size: 2.1em;
+    margin-bottom: .5em;
+  }
+
 @media (max-width: 970px) {
   .header .logo {
     width: 40px;
@@ -74,20 +84,6 @@ body {
 .header .logo:hover {
   -webkit-box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.26);
   box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.26); }
-
-.header .name {
-  padding: 50px 0 10px;
-  font-weight: normal;
-  font-size: 1.7em;
-  color: white;
-  display: block; }
-
-@media (max-width: 970px) {
-  .header .name {
-    padding: 30px 20px 7px; }
-
-  .header .intro {
-    padding: 15px 20px 30px; } }
 
 /* card */
 .card {
@@ -200,7 +196,7 @@ footer img {
 
 /* about */
 
-.about h1 {
+.about h2 {
   text-align: center;
 }
 .about img {

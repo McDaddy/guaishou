@@ -15,7 +15,7 @@ a {
   text-decoration: none; }
 
 body {
-  color: #777;
+  color: #212121;
   background: #f2f2f2;
   margin: 0;
   font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
@@ -129,6 +129,7 @@ html {
   background-color: #00668f; }
 
 .card ul {
+  opacity: .8;
   list-style: none;
   padding: 0 0 40px 0; }
 
